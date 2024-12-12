@@ -105,6 +105,127 @@ h1 {
     width: 610px;
     height: 458px;
 }
+
 li {
     padding-top: 12px;
+}
+
+#big-box {
+    max-width: 1264px;
+    width: 100%;
+    height: 536px;
+    padding: 83px;
+    border-radius: 16px;
+    background: #F7F4FF;
+    margin: auto;
+}
+
+#header1 {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 56px;
+
+}
+
+#p1 {
+    color: #535862;
+
+    text-align: center;
+    font-family: Prata;
+    font-size: 20px;
+}
+
+
+#Group {
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+
+}
+
+#box1-conteiner {
+    max-width: 419px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    background-color: #FFF;
+
+
+}
+
+#Address {
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+}
+
+
+
+#Address_wrapper {
+    display: inline-block;
+    max-width: 318px;
+}
+
+#Lorem {
+    max-width: 918px;
+    background: #fff;
+}
+
+#grpupp1 {
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+}
+
+#Email {
+    display: inline-block;
+    max-width: 318px;
+
+}
+
+#Email-conteiner {
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+}
+
+#number-conteiner {
+    color: #000;
+    font-family: Phetsarath;
+    font-size: 20px;
+}
+
+#number3 {
+    display: inline-block;
+    max-width: 318px;
+    
+}
+
+#number-groupp {
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+}
+
+#box2-conteiner {
+    max-width: 730px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#masage-conteiner {
+    color: #1B003D;
+
+    font-family: "Noto Sans Georgian";
+    font-size: 32px;
+    display: inline-block;
 }
